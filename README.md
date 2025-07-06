@@ -1,26 +1,58 @@
-## 👋 ¡Hola! Soy Nathalia
-Apasionada por los datos, la ciencia y la tecnología. Tengo formación en Bioquímica y Ciencia de Datos, con un fuerte interés en aplicar la estadística, el machine learning y la programación para resolver problemas reales, especialmente en el área de la salud, biotecnología e investigación científica.
+# 👋 ¡Hola! Soy Nathalia Alvear
 
-🛠 Tecnologías y herramientas
-Lenguajes: Python, SQL
+💻 Científica de Datos con formación en Bioquímica  
+🔬 Apasionada por aplicar la ciencia de datos en salud, biotecnología y ciencia biomédica  
+📚 Formada en Bioquímica y egresada de un bootcamp intensivo en Data Science
 
-Bibliotecas y frameworks: pandas, NumPy, scikit-learn, LightGBM, spaCy, TensorFlow
+---
 
-Áreas de enfoque: Ciencia de datos, Aprendizaje automático, Procesamiento de lenguaje natural (NLP), Visión por computadora
+He trabajado en varios proyectos que combinan análisis de datos, machine learning y visualización, con especial interés en el análisis de datos clínicos y optimización de procesos científicos.
 
-🚀 Proyectos destacados
-🧑‍🦳📷 Estimación de edad con visión por computadora: modelo para verificar la edad de los compradores en supermercados
+🎯 **Objetivo:** Crear soluciones basadas en datos que impacten positivamente en el área de la salud y la investigación biomédica.
 
-🤖💬 Análisis de sentimientos con NLP: clasificación de reseñas de películas utilizando embeddings y modelos estadísticos
+---
 
-🚕📈 Predicción de demanda de taxis: modelo de series temporales optimizado para métricas de negocio
+### 🧠 Skills
+- **Lenguajes y herramientas:** Python, SQL, scikit-learn, pandas, matplotlib, seaborn, Streamlit  
+- **Machine Learning:** Clasificación, regresión, clustering, detección de anomalías  
+- **Deep Learning (básico):** Transfer learning, CNNs para visión artificial  
+- **Procesamiento de datos:** Limpieza, análisis exploratorio, visualización interactiva  
+- **Otros:** Git, Jupyter, Render
 
-📊 Tesis sobre estimación estadística distribuida: análisis de límites superiores del error probabilístico
+---
 
-🎯 Objetivo
-Sigo aprendiendo continuamente y trabajando en proyectos con impacto. Me interesa colaborar en iniciativas que combinen ciencia, datos y tecnología para generar soluciones útiles para la sociedad.
+### 🚀 Proyectos destacados
 
-📫 Puedes contactarme o conocer más sobre mi trabajo en:
-🔗 www.linkedin.com/in/nathalia-crespo
+- 🩸 **Outlier Detection in Blood Donation Data**  
+  Detección de valores atípicos en donaciones de sangre usando método IQR.  
+ 
+
+- 📦 **Instacart Product Demand Analysis**  
+  Análisis de patrones de compra por hora y repetición de productos.
+
+- 📱 **Customer Revenue Analysis (Megaline)**  
+  Comparación de ingresos por planes móviles con estadística e hipótesis.
+
+- 🧪 **Genotoxicidad y Estrés Oxidativo (investigación)**  
+  Proyecto de laboratorio con enfoque en mecanismos moleculares de daño celular.
+
+- 🧑‍🦰 **Computer Vision Age Estimation**  
+  Clasificación de edades a partir de imágenes faciales usando modelos CNN.
+
+---
+
+### 🌱 Actualmente aprendiendo:
+- Técnicas avanzadas de NLP y BERT para análisis de texto  
+- Aplicaciones de IA en salud y biotecnología  
+- Visualización profesional con Power BI
+
+---
+
+Linkedin : www.linkedin.com/in/nathalia-crespo
+
+
+✨ ¡Gracias por visitar mi perfil!
+
+
 
 
