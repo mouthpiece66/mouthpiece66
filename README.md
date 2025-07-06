@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Nathalia Alvear
+# 👋 ¡Hola! Soy Nathalia Alvear Crespo
 
 💻 Científica de Datos con formación en Bioquímica  
 🔬 Apasionada por aplicar la ciencia de datos en salud, biotecnología y ciencia biomédica  
