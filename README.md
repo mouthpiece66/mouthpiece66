@@ -33,9 +33,6 @@ He trabajado en varios proyectos que combinan análisis de datos, machine learni
 - 📱 **Customer Revenue Analysis (Megaline)**  
   Comparación de ingresos por planes móviles con estadística e hipótesis.
 
-- 🧪 **Genotoxicidad y Estrés Oxidativo (investigación)**  
-  Proyecto de laboratorio con enfoque en mecanismos moleculares de daño celular.
-
 - 🧑‍🦰 **Computer Vision Age Estimation**  
   Clasificación de edades a partir de imágenes faciales usando modelos CNN.
 
