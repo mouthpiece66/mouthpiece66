@@ -1,52 +1,67 @@
-# 👋 ¡Hola! Soy Nathalia Alvear Crespo
+# 👋 ¡Hey! I´m Nathalia Crespo 
 
-💻 Científica de Datos con formación en Bioquímica  
-🔬 Apasionada por aplicar la ciencia de datos en salud, biotecnología y ciencia biomédica  
-📚 Formada en Bioquímica y egresada de un bootcamp intensivo en Data Science
+### 🔬 Biochemist & 💻 Data Scientist
+**Bridging the gap between Life Sciences and Data Intelligence.**
 
----
-
-He trabajado en varios proyectos que combinan análisis de datos, machine learning y visualización, con especial interés en el análisis de datos clínicos y optimización de procesos científicos.
-
-🎯 **Objetivo:** Crear soluciones basadas en datos que impacten positivamente en el área de la salud y la investigación biomédica.
+I am a Data Scientist with a solid background in Biochemistry, passionate about solving real-world problems with social impact. My expertise lies in applying statistics, Machine Learning, and Bioinformatics to healthcare, biotechnology, and biomedical research.
 
 ---
 
-### 🧠 Skills
-- **Lenguajes y herramientas:** Python, SQL, scikit-learn, pandas, matplotlib, seaborn, Streamlit  
-- **Machine Learning:** Clasificación, regresión, clustering, detección de anomalías  
-- **Deep Learning (básico):** Transfer learning, CNNs para visión artificial  
-- **Procesamiento de datos:** Limpieza, análisis exploratorio, visualización interactiva  
-- **Otros:** Git, Jupyter, Render
+### 🛠️ Technical Stack
+
+- **Languages:** Python (Advanced), SQL (Intermediate), R (Basic)
+- **Data Science:** Pandas, NumPy, Scikit-learn, SciPy, Statsmodels
+- **Machine Learning & AI:** LightGBM, XGBoost, TensorFlow, Keras, NLP (spaCy, NLTK, BERT), Computer Vision (OpenCV)
+- **Bioinformatics:** Ensembl, NCBI, BLAST, Sequence Analysis
+- **Visualization:** Matplotlib, Seaborn, Streamlit, Plotly
+- **Tools & DevOps:** Git, GitHub, Jupyter, Docker, Render, GraphPad Prism
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Highlighted Projects
 
-- 🩸 **Outlier Detection in Blood Donation Data**  
-  Detección de valores atípicos en donaciones de sangre usando método IQR.  
- 
+#### 🩸 [Outlier Detection in Blood Donation Data](https://github.com/nathalia-crespo/blood-donation-outliers)
+*   **Goal:** Identify strategic donor profiles and anomalies in health data.
+*   **Tech:** Python, Scikit-learn, IQR Method, Seaborn.
+*   **Impact:** Improved donor targeting for specific health campaigns.
 
-- 📦 **Instacart Product Demand Analysis**  
-  Análisis de patrones de compra por hora y repetición de productos.
+#### 📦 [Instacart Product Demand Analysis](https://github.com/nathalia-crespo/instacart-analysis)
+*   **Goal:** Analyze large-scale consumer behavior and reordering patterns.
+*   **Tech:** Python, Pandas, Matplotlib, Advanced Data Cleansing.
+*   **Impact:** Identified peak demand hours and optimized product placement strategies.
 
-- 📱 **Customer Revenue Analysis (Megaline)**  
-  Comparación de ingresos por planes móviles con estadística e hipótesis.
+#### 🎥 [Negative Review Classification (Film Junky Union)](https://github.com/nathalia-crespo/nlp-movie-reviews)
+*   **Goal:** Automated sentiment analysis system for online reputation monitoring.
+*   **Tech:** NLP (BERT, spaCy, NLTK), TF-IDF, LightGBM.
+*   **Impact:** Enabled real-time prioritization of responses to unsatisfied customers.
 
+#### 🏦 [Customer Churn Prediction (Beta Bank)](https://github.com/nathalia-crespo/customer-churn-prediction)
+*   **Goal:** Predict which bank customers are likely to leave.
+*   **Tech:** Scikit-learn, Oversampling (SMOTE), ROC/F1 Metrics.
 
 ---
 
-### 🌱 Actualmente aprendiendo:
-- Técnicas avanzadas de NLP y BERT para análisis de texto  
-- Aplicaciones de IA en salud y biotecnología  
-- Visualización profesional con Power BI
+### 📈 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=nathalia-crespo&show_icons=true&theme=tokyonight" alt="Nathalia's GitHub Stats" />
+</p>
 
 ---
 
-Linkedin : www.linkedin.com/in/nathalia-crespo
+### 🌱 Currently Exploring
+- 🧠 Advanced **NLP & BERT** for biomedical text mining.
+- 🧬 **Genomic Data Pipelines** and AI applications in BioTech.
+- 📊 Professional visualization with **Power BI**.
 
+---
 
-✨ ¡Gracias por visitar mi perfil!
+### 📫 Connect with me:
+- **LinkedIn:** [linkedin.com/in/nathalia-crespo](https://www.linkedin.com/in/nathalia-crespo)
+- **Email:** [nathalia.alvear@hotmail.com](mailto:nathalia.alvear@hotmail.com)
+
+✨ *“Data is the new microscope for understanding life.”*
+
 
 
 
