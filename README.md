@@ -41,14 +41,6 @@ I am a Data Scientist with a solid background in Biochemistry, passionate about 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nathalia-crespo&show_icons=true&theme=tokyonight" alt="Nathalia's GitHub Stats" />
-</p>
-
----
-
 ### 🌱 Currently Exploring
 - 🧠 Advanced **NLP & BERT** for biomedical text mining.
 - 🧬 **Genomic Data Pipelines** and AI applications in BioTech.
