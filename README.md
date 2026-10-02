@@ -34,14 +34,6 @@ My work combines **Bioinformatics, Data Science, Machine Learning, and Life Scie
 
 ---
 
-## 🎓 Education
-
-**MSc in Bioinformatics and Computational Biology**  
-*Currently pursuing*
-
-**BSc in Biochemistry**
-
----
 
 ## 🔬 Research Interests
 
