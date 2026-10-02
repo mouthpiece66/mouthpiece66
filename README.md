@@ -1,60 +1,114 @@
-# 👋 ¡Hey! I´m Nathalia Crespo 
+# 👋 Hey! I'm Nathalia Crespo
 
-### 🔬 Biochemist & 💻 Data Scientist
-**Bridging the gap between Life Sciences and Data Intelligence.**
+### 🧬 Biochemist | 💻 Data Scientist | 🔬 MSc Bioinformatics & Computational Biology
 
-I am a Data Scientist with a solid background in Biochemistry, passionate about solving real-world problems with social impact. My expertise lies in applying statistics, Machine Learning, and Bioinformatics to healthcare, biotechnology, and biomedical research.
+**Bridging Life Sciences, Bioinformatics, and Data Science to better understand biological and biomedical data.**
 
----
+I am a Biochemist and Data Scientist currently pursuing an **MSc in Bioinformatics and Computational Biology**, with a strong interest in applying computational and statistical approaches to biological and biomedical research.
 
-### 🛠️ Technical Stack
-
-- **Languages:** Python (Advanced), SQL (Intermediate), R (Basic)
-- **Data Science:** Pandas, NumPy, Scikit-learn, SciPy, Statsmodels
-- **Machine Learning & AI:** LightGBM, XGBoost, TensorFlow, Keras, NLP (spaCy, NLTK, BERT), Computer Vision (OpenCV)
-- **Bioinformatics:** Ensembl, NCBI, BLAST, Sequence Analysis
-- **Visualization:** Matplotlib, Seaborn, Streamlit, Plotly
-- **Tools & DevOps:** Git, GitHub, Jupyter, Docker, Render, GraphPad Prism
+My work combines **Bioinformatics, Data Science, Machine Learning, and Life Sciences** to analyze complex biological data and extract meaningful insights from research datasets.
 
 ---
 
-### 🚀 Highlighted Projects
+## 🛠️ Technical Stack
 
-#### 🩸 [Outlier Detection in Blood Donation Data](https://github.com/nathalia-crespo/blood-donation-outliers)
-*   **Goal:** Identify strategic donor profiles and anomalies in health data.
-*   **Tech:** Python, Scikit-learn, IQR Method, Seaborn.
-*   **Impact:** Improved donor targeting for specific health campaigns.
+### 💻 Programming & Data Science
+- **Languages:** Python, SQL, R
+- **Data Analysis:** Pandas, NumPy, SciPy, Statsmodels
+- **Machine Learning:** Scikit-learn, LightGBM, XGBoost
+- **Deep Learning:** TensorFlow, Keras
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Streamlit
 
-#### 📦 [Instacart Product Demand Analysis](https://github.com/nathalia-crespo/instacart-analysis)
-*   **Goal:** Analyze large-scale consumer behavior and reordering patterns.
-*   **Tech:** Python, Pandas, Matplotlib, Advanced Data Cleansing.
-*   **Impact:** Identified peak demand hours and optimized product placement strategies.
+### 🧬 Bioinformatics & Computational Biology
+- **Sequence Analysis**
+- **Genomic Data Analysis**
+- **Single-Cell RNA Sequencing (scRNA-seq)**
+- **Biomedical Data Analysis**
+- **Ensembl, NCBI, BLAST**
+- **Biological Data Processing & Visualization**
 
-#### 🎥 [Negative Review Classification (Film Junky Union)](https://github.com/nathalia-crespo/nlp-movie-reviews)
-*   **Goal:** Automated sentiment analysis system for online reputation monitoring.
-*   **Tech:** NLP (BERT, spaCy, NLTK), TF-IDF, LightGBM.
-*   **Impact:** Enabled real-time prioritization of responses to unsatisfied customers.
-
-#### 🏦 [Customer Churn Prediction (Beta Bank)](https://github.com/nathalia-crespo/customer-churn-prediction)
-*   **Goal:** Predict which bank customers are likely to leave.
-*   **Tech:** Scikit-learn, Oversampling (SMOTE), ROC/F1 Metrics.
-
----
-
-### 🌱 Currently Exploring
-- 🧠 Advanced **NLP & BERT** for biomedical text mining.
-- 🧬 **Genomic Data Pipelines** and AI applications in BioTech.
-- 📊 Professional visualization with **Power BI**.
+### 🤖 AI & Other Tools
+- **NLP:** spaCy, NLTK, BERT, TF-IDF
+- **Computer Vision:** OpenCV
+- **Tools:** Git, GitHub, Jupyter, Docker, GraphPad Prism
 
 ---
 
-### 📫 Connect with me:
+## 🎓 Education
+
+**MSc in Bioinformatics and Computational Biology**  
+*Currently pursuing*
+
+**BSc in Biochemistry**
+
+---
+
+## 🔬 Research Interests
+
+- 🧬 Bioinformatics & Computational Biology
+- 🧪 Biomedical Data Science
+- 🧫 Single-Cell RNA Sequencing
+- 🤖 Machine Learning for Life Sciences
+- 📊 Statistical Analysis of Biological Data
+- 🧠 AI Applications in Biomedical Research
+- 🧬 Genomics & Transcriptomics
+
+---
+
+## 🚀 Highlighted Projects
+
+### 🩸 [Outlier Detection in Blood Donation Data](https://github.com/nathalia-crespo/blood-donation-outliers)
+
+**Goal:** Identify strategic donor profiles and anomalies in health data.  
+**Tech:** Python, Scikit-learn, IQR Method, Seaborn.
+
+---
+
+### 📦 [Instacart Product Demand Analysis](https://github.com/nathalia-crespo/instacart-analysis)
+
+**Goal:** Analyze large-scale consumer behavior and reordering patterns.  
+**Tech:** Python, Pandas, Matplotlib, Advanced Data Cleaning.
+
+---
+
+### 🎥 [Negative Review Classification](https://github.com/nathalia-crespo/nlp-movie-reviews)
+
+**Goal:** Develop an automated sentiment analysis system for online reputation monitoring.  
+**Tech:** NLP, BERT, spaCy, NLTK, TF-IDF, LightGBM.
+
+---
+
+### 🏦 [Customer Churn Prediction](https://github.com/nathalia-crespo/customer-churn-prediction)
+
+**Goal:** Predict customer churn using machine learning techniques.  
+**Tech:** Scikit-learn, SMOTE, ROC-AUC, F1 Score.
+
+---
+
+## 🔬 Research Experience
+
+Currently developing my academic and research profile in **Bioinformatics and Computational Biology**, with a focus on computational approaches to biomedical datasets.
+
+My research interests include the analysis of **high-dimensional biological data**, transcriptomics, single-cell data, and the application of machine learning and statistical methods to biomedical research.
+
+---
+
+## 🌱 Currently Exploring
+
+- 🧬 **Single-Cell RNA-seq & Transcriptomics**
+- 🔬 **Bioinformatics Pipelines**
+- 🤖 **Machine Learning for Biomedical Research**
+- 🧪 **Computational Biology**
+- 📊 **Statistical Analysis of Biological Data**
+- 🧠 **AI Applications in Healthcare & Life Sciences**
+
+---
+
+## 📫 Connect with me
+
 - **LinkedIn:** [linkedin.com/in/nathalia-crespo](https://www.linkedin.com/in/nathalia-crespo)
 - **Email:** [nathalia.alvear@hotmail.com](mailto:nathalia.alvear@hotmail.com)
 
+---
+
 ✨ *“Data is the new microscope for understanding life.”*
-
-
-
-
-
